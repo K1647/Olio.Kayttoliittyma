@@ -18,6 +18,7 @@
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="195,201,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="149"/>
         <Button x:Name="button2" Content="About..." HorizontalAlignment="Left" Margin="195,163,0,0" VerticalAlignment="Top" Width="149" Height="33" Click="button2_Click"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="369,154,0,0" TextWrapping="Wrap" Text="##" VerticalAlignment="Top" FontSize="100" Background="White"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="80,98,0,0" TextWrapping="Wrap" Text="EI JUMA" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

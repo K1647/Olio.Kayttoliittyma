@@ -13,7 +13,7 @@
                 <GradientStop Color="#FF4DDA47"/>
             </RadialGradientBrush>
         </Grid.Background>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="32" Margin="195,83,0,0" TextWrapping="Wrap" Text="Anna nimesi" VerticalAlignment="Top" Width="149"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="32" Margin="195,83,0,0" TextWrapping="Wrap" Text="Anna nimesi..." VerticalAlignment="Top" Width="149"/>
         <Button x:Name="button" Content="Tervehdi" HorizontalAlignment="Left" Margin="195,120,0,0" VerticalAlignment="Top" Width="149" Height="33" Click="button_Click"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="195,201,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="149"/>
         <Button x:Name="button2" Content="About..." HorizontalAlignment="Left" Margin="195,163,0,0" VerticalAlignment="Top" Width="149" Height="33" Click="button2_Click"/>

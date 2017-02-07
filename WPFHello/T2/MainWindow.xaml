@@ -1,0 +1,18 @@
+﻿<Window x:Class="T2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" FontSize="14">
+    <Grid>
+        <TextBox x:Name="annettu" HorizontalAlignment="Left" Height="23" Margin="47,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="muunnettu" HorizontalAlignment="Left" Margin="47,245,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Height="27" Width="120"/>
+        <RadioButton x:Name="eumar" Content="Euroista markoiksi" HorizontalAlignment="Left" Margin="47,117,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="mareu" Content="Markoista euroiksi" HorizontalAlignment="Left" Margin="47,151,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="47,31,0,0" TextWrapping="Wrap" Text="Anna rahasumma" VerticalAlignment="Top"/>
+        <Button x:Name="buttonLaske" Content="Laske" HorizontalAlignment="Left" Margin="47,195,0,0" VerticalAlignment="Top" Width="75" Click="buttonLaske_Click"/>
+
+    </Grid>
+</Window>

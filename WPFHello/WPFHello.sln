@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFHello", "WPFHello\WPFHel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "Tehtavat\T1.csproj", "{C60B7F53-7B81-4AC9-AE16-AF537E9FCC20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2", "T2\T2.csproj", "{FBCEE6F2-A5AC-49C6-8C1E-69503AB3A234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C60B7F53-7B81-4AC9-AE16-AF537E9FCC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C60B7F53-7B81-4AC9-AE16-AF537E9FCC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C60B7F53-7B81-4AC9-AE16-AF537E9FCC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCEE6F2-A5AC-49C6-8C1E-69503AB3A234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCEE6F2-A5AC-49C6-8C1E-69503AB3A234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCEE6F2-A5AC-49C6-8C1E-69503AB3A234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCEE6F2-A5AC-49C6-8C1E-69503AB3A234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

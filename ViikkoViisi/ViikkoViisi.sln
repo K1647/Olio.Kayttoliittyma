@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViikkoViisi", "ViikkoViisi\ViikkoViisi.csproj", "{05BEAA7F-DA86-4498-9E06-A43EC4D13A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViikkoViisi2", "ViikkoViisi2\ViikkoViisi2.csproj", "{92E95DA4-6651-4359-96C1-2A7DFBD36251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViikkoViisi2Tests", "ViikkoViisi2Tests\ViikkoViisi2Tests.csproj", "{B3D426AB-FD8B-43FC-B032-D96017806E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BEAA7F-DA86-4498-9E06-A43EC4D13A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BEAA7F-DA86-4498-9E06-A43EC4D13A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BEAA7F-DA86-4498-9E06-A43EC4D13A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BEAA7F-DA86-4498-9E06-A43EC4D13A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E95DA4-6651-4359-96C1-2A7DFBD36251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E95DA4-6651-4359-96C1-2A7DFBD36251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E95DA4-6651-4359-96C1-2A7DFBD36251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E95DA4-6651-4359-96C1-2A7DFBD36251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D426AB-FD8B-43FC-B032-D96017806E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D426AB-FD8B-43FC-B032-D96017806E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D426AB-FD8B-43FC-B032-D96017806E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D426AB-FD8B-43FC-B032-D96017806E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

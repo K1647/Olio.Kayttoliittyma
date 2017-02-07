@@ -1,0 +1,11 @@
+E:\C#juttuja\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.exe.config
+E:\C#juttuja\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.exe
+E:\C#juttuja\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.pdb
+E:\C#juttuja\ViikkoKolme\Tehtava5\obj\Debug\Tehtava5.exe
+E:\C#juttuja\ViikkoKolme\Tehtava5\obj\Debug\Tehtava5.pdb
+D:\K1647\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.exe.config
+D:\K1647\ViikkoKolme\Tehtava5\obj\Debug\Tehtava5.exe
+D:\K1647\ViikkoKolme\Tehtava5\obj\Debug\Tehtava5.pdb
+D:\K1647\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.exe
+D:\K1647\ViikkoKolme\Tehtava5\bin\Debug\Tehtava5.pdb
+D:\K1647\ViikkoKolme\Tehtava5\obj\Debug\Tehtava5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\bin\Debug\ViikkoViisi2.exe.config
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\bin\Debug\ViikkoViisi2.exe
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\bin\Debug\ViikkoViisi2.pdb
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\obj\Debug\ViikkoViisi2.exe
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\obj\Debug\ViikkoViisi2.pdb
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2\obj\Debug\ViikkoViisi2.csprojResolveAssemblyReference.cache

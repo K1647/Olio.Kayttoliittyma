@@ -1,0 +1,9 @@
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\ViikkoViisi2Tests.dll
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\ViikkoViisi2Tests.pdb
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\ViikkoViisi2.exe
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\ViikkoViisi2.pdb
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\obj\Debug\ViikkoViisi2Tests.csprojResolveAssemblyReference.cache
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\obj\Debug\ViikkoViisi2Tests.dll
+E:\C#juttuja\ViikkoViisi\ViikkoViisi2Tests\obj\Debug\ViikkoViisi2Tests.pdb

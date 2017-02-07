@@ -1,0 +1,6 @@
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\bin\Debug\ViikkoNelja.exe.config
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\bin\Debug\ViikkoNelja.exe
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\bin\Debug\ViikkoNelja.pdb
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\obj\Debug\ViikkoNelja.csprojResolveAssemblyReference.cache
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\obj\Debug\ViikkoNelja.exe
+E:\C#juttuja\ViikkoNelja\ViikkoNelja\obj\Debug\ViikkoNelja.pdb

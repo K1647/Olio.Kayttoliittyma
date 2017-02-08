@@ -1,0 +1,12 @@
+D:\K1647\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.exe.config
+D:\K1647\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.exe
+D:\K1647\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.pdb
+D:\K1647\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.csprojResolveAssemblyReference.cache
+D:\K1647\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.exe
+D:\K1647\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.pdb
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.exe.config
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.exe
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\bin\Debug\ViikkoKolme2.pdb
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.csprojResolveAssemblyReference.cache
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.exe
+E:\C#juttuja\ViikkoKolme\ViikkoKolme2\obj\Debug\ViikkoKolme2.pdb

@@ -1,0 +1,13 @@
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\bin\Debug\T2.exe.config
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\bin\Debug\T2.exe
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\bin\Debug\T2.pdb
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\MainWindow.g.cs
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\App.g.cs
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2_MarkupCompile.cache
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2_MarkupCompile.lref
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\MainWindow.baml
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.g.resources
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.Properties.Resources.resources
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.csproj.GenerateResource.Cache
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.exe
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.pdb

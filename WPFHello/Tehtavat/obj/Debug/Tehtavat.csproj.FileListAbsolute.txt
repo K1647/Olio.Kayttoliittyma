@@ -1,0 +1,13 @@
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\bin\Debug\Tehtavat.exe.config
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\bin\Debug\Tehtavat.exe
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\bin\Debug\Tehtavat.pdb
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\MainWindow.g.cs
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\App.g.cs
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat_MarkupCompile.cache
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat_MarkupCompile.lref
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\MainWindow.baml
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.g.resources
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.Properties.Resources.resources
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.csproj.GenerateResource.Cache
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.exe
+E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.pdb

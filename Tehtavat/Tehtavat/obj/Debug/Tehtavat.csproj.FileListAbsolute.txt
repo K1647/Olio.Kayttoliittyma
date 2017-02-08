@@ -1,0 +1,12 @@
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\bin\Debug\Tehtavat.exe.config
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\bin\Debug\Tehtavat.exe
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\bin\Debug\Tehtavat.pdb
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\obj\Debug\Tehtavat.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\obj\Debug\Tehtavat.exe
+E:\Visual Studio 2015\Projects\Tehtavat\Tehtavat\obj\Debug\Tehtavat.pdb
+E:\C#juttuja\Tehtavat\Tehtavat\bin\Debug\Tehtavat.exe.config
+E:\C#juttuja\Tehtavat\Tehtavat\obj\Debug\Tehtavat.exe
+E:\C#juttuja\Tehtavat\Tehtavat\obj\Debug\Tehtavat.pdb
+E:\C#juttuja\Tehtavat\Tehtavat\bin\Debug\Tehtavat.exe
+E:\C#juttuja\Tehtavat\Tehtavat\bin\Debug\Tehtavat.pdb
+E:\C#juttuja\Tehtavat\Tehtavat\obj\Debug\Tehtavat.csprojResolveAssemblyReference.cache

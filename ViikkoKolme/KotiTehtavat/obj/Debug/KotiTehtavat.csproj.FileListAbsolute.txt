@@ -1,0 +1,6 @@
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\bin\Debug\KotiTehtavat.exe.config
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\bin\Debug\KotiTehtavat.exe
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\bin\Debug\KotiTehtavat.pdb
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\obj\Debug\KotiTehtavat.csprojResolveAssemblyReference.cache
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\obj\Debug\KotiTehtavat.exe
+E:\C#juttuja\ViikkoKolme\KotiTehtavat\obj\Debug\KotiTehtavat.pdb

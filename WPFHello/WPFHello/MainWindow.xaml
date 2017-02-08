@@ -19,7 +19,7 @@
                 <Button x:Name="btnSayHello" Content="Tervehdi" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="149" Height="33" Click="button_Click"/>
                 <Button x:Name="btnAbout" Content="About..." HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="149" Height="33" Click="button2_Click"/>
                 <Button x:Name="btnExit" Content="Exit" Margin="10"/>
-                <TextBlock x:Name="txbHello" HorizontalAlignment="Left" Margin="10" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="149" Background="White"/>
+                <TextBlock x:Name="txbHello" HorizontalAlignment="Left" Margin="10" TextWrapping="Wrap" Text="...." VerticalAlignment="Top" Width="149" Background="White"/>
             </StackPanel>
             <StackPanel>
                 <TextBlock x:Name="txbResult" HorizontalAlignment="Left" Margin="10" TextWrapping="Wrap" Text="##" VerticalAlignment="Top" FontSize="50" Background="White"/>

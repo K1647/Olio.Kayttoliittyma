@@ -11,3 +11,6 @@ E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.Properties.Resources.r
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.csproj.GenerateResource.Cache
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.exe
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.pdb
+D:\K1647\Olio.Kayttoliittyma\WPFHello\T2\bin\Debug\T2.exe.config
+D:\K1647\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.exe
+D:\K1647\Olio.Kayttoliittyma\WPFHello\T2\obj\Debug\T2.pdb

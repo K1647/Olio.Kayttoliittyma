@@ -27,13 +27,14 @@ namespace WPFHello
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            textBlock.Text = "Hello " + textBox.Text;
-
+            txbHello.Text = "Hello " + txtName.Text;
             //MessageBox.Show("Terve " + textBox.Text, "Joona's Messut");
             int x;
-            Int32.TryParse(textBlock1.Text, out x);
+            Int32.TryParse(txbResult.Text, out x);
             x++;
-            textBlock1.Text = Convert.ToString(x);
+            txbResult.Text = Convert.ToString(x);
+            //ilmoitus tilariville
+            txbMessages.Text = "Painoit buttosta btnSayHello";
         }
 
         private void button2_Click(object sender, RoutedEventArgs e)

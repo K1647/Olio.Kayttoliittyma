@@ -1,3 +1,6 @@
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\bin\Debug\Tehtavat.exe.config
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.exe
 E:\C#juttuja\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.pdb
+D:\K1647\Olio.Kayttoliittyma\WPFHello\Tehtavat\bin\Debug\Tehtavat.exe.config
+D:\K1647\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.exe
+D:\K1647\Olio.Kayttoliittyma\WPFHello\Tehtavat\obj\Debug\Tehtavat.pdb

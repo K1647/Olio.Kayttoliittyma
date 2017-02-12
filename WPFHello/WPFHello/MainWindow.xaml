@@ -13,12 +13,24 @@
                 <GradientStop Color="#FF4DDA47"/>
             </RadialGradientBrush>
         </Grid.Background>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="32" Margin="195,83,0,0" TextWrapping="Wrap" Text="Anna nimesi..." VerticalAlignment="Top" Width="149"/>
-        <Button x:Name="button" Content="Tervehdi" HorizontalAlignment="Left" Margin="195,120,0,0" VerticalAlignment="Top" Width="149" Height="33" Click="button_Click"/>
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="195,201,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="149"/>
-        <Button x:Name="button2" Content="About..." HorizontalAlignment="Left" Margin="195,163,0,0" VerticalAlignment="Top" Width="149" Height="33" Click="button2_Click"/>
-        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="369,154,0,0" TextWrapping="Wrap" Text="##" VerticalAlignment="Top" FontSize="100" Background="White"/>
-        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="80,98,0,0" TextWrapping="Wrap" Text="EI JUMA" VerticalAlignment="Top"/>
-
+        <StackPanel Orientation="Horizontal" >
+            <StackPanel>
+                <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="32" Margin="10" TextWrapping="Wrap" Text="Anna nimesi..." VerticalAlignment="Top" Width="149"/>
+                <Button x:Name="btnSayHello" Content="Tervehdi" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="149" Height="33" Click="button_Click"/>
+                <Button x:Name="btnAbout" Content="About..." HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="149" Height="33" Click="button2_Click"/>
+                <Button x:Name="btnExit" Content="Exit" Margin="10"/>
+                <TextBlock x:Name="txbHello" HorizontalAlignment="Left" Margin="10" TextWrapping="Wrap" Text="...." VerticalAlignment="Top" Width="149" Background="White"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock x:Name="txbResult" HorizontalAlignment="Left" Margin="10" TextWrapping="Wrap" Text="##" VerticalAlignment="Top" FontSize="50" Background="White"/>
+            </StackPanel>
+        </StackPanel>
+        <DockPanel VerticalAlignment="Bottom">
+            <StatusBar>
+                <StatusBarItem>
+                    <TextBlock x:Name="txbMessages" FontSize="10"/>
+                </StatusBarItem>
+            </StatusBar>
+        </DockPanel>
     </Grid>
 </Window>

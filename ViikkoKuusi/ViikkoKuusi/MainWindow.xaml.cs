@@ -29,32 +29,26 @@ namespace ViikkoKuusi
         {
             try
             {
-                string apu;
-                if ((bool)checkMilk.IsChecked)
+                string lista = "";
+                foreach (CheckBox item in checklist.Children)
                 {
-                    apu = "Milk";
-                    textBox.Text = textBox.Text + " " + apu;
+                    if (item.GetType() == typeof(CheckBox))
+                    {
+                        if ((bool)item.IsChecked)
+                        {
+                            lista = lista + " " + item.Name;
+                        }
+                        else
+                        {
+                            lista = lista;
+                        }
+                    }
+                    else
+                    {
+                        lista = lista;
+                    }
                 }
-                if ((bool)checkButter.IsChecked)
-                {
-                    apu = "Butter";
-                    textBox.Text = textBox.Text + " " + apu;
-                }
-                if ((bool)checkBeer.IsChecked)
-                {
-                    apu = "Beer";
-                    textBox.Text = textBox.Text + " " + apu;
-                }
-                if ((bool)checkChicken.IsChecked)
-                {
-                    apu = "Chicken";
-                    textBox.Text = textBox.Text + " " + apu;
-                }
-                if ((bool)checkLemonade.IsChecked)
-                {
-                    apu = "Lemonade";
-                    textBox.Text = textBox.Text + " " + apu;
-                }
+                textBox.Text = lista;
             }
             catch (Exception ex)
             {

@@ -44,10 +44,12 @@
             <StackPanel x:Name="spRight" Background="LightBlue">
                 <TextBlock Text="Binding to collection: "/>
                 <Button x:Name="btnBind" Content="Sido olio-kokoelmaan" Click="btnBind_Click" />
-                <TextBox x:Name="txtName" Text="{Binding Path=Name}" />
-                <TextBox x:Name="txtCity" Text="{Binding Path=City}"/>
+                <TextBox x:Name="txtName" Text="{Binding Name}" />
+                <TextBox x:Name="txtCity" Text="{Binding City}"/>
                 <Button x:Name="btnForward" Content="Seuraava" Click="btnForward_Click" />
                 <Button x:Name="btnBackward" Content="Edellinen" Click="btnBackward_Click" />
+                <Button x:Name="btnCreateNew" Content="Luo uusi" Margin="0,10,0,0" Click="btnCreateNew_Click"/>
+                <Button x:Name="btnSave" Content="Tallenna" Margin="0,10,0,0" Click="btnSave_Click"/>
             </StackPanel>
         </StackPanel>
     </Grid>

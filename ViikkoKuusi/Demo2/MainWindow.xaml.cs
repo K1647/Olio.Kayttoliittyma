@@ -57,7 +57,7 @@ namespace Demo2
 
         private void btnForward_Click(object sender, RoutedEventArgs e)
         {
-            if (counter < 4)
+            if (counter < joukkueet.Count - 1)
             {
                 counter++;
                 spRight.DataContext = joukkueet[counter];
@@ -71,6 +71,17 @@ namespace Demo2
                 counter--;
                 spRight.DataContext = joukkueet[counter];
             }
+        }
+
+        private void btnCreateNew_Click(object sender, RoutedEventArgs e)
+        {
+            txtName.Text = "Anna joukkueen nimi";
+            txtCity.Text = "Anna kaupunki";
+        }
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+            joukkueet.Add(new HockeyTeam(txtName.Text, txtCity.Text));
+            spRight.DataContext = joukkueet[counter];
         }
     }
 }

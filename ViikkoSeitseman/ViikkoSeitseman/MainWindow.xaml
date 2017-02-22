@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ViikkoSeitseman"
         xmlns:views="clr-namespace:ViikkoSeitseman.View"
         mc:Ignorable="d"
-        Title="MVVMDemo Students" Height="350" Width="625">
+        Title="MVVMDemo Students" Height="350" Width="700">
     <Grid>
         <StackPanel Orientation="Horizontal" Background="Azure">
             <views:StudentView x:Name="StudentViewControl" Loaded="StudentViewControl_Loaded" />

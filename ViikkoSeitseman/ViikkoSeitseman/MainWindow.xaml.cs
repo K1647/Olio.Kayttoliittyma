@@ -24,7 +24,17 @@ namespace ViikkoSeitseman
         public MainWindow()
         {
             InitializeComponent();
-            svmo.LoadStudents();
+            //kovakoodatut oppilaat
+            //svmo.LoadStudents();
+            try
+            {
+                //tietokannasta haetut
+                svmo.LoadStudentsFromMysql();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void StudentViewControl_Loaded(object sender, RoutedEventArgs e)

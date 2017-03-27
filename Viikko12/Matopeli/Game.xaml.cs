@@ -207,6 +207,8 @@ namespace Matopeli
             //MessageBox.Show("Your score: " + score);
             //this.Close();
             GameOverShow();
+            MainWindow kappa = new MainWindow();
+            kappa.Show();
         }
 
         private void GameOverShow()

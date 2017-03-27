@@ -32,8 +32,10 @@ namespace Matopeli
 
         private void btnPlay_Click(object sender, RoutedEventArgs e)
         {
+            
             Game gameWindow = new Game();
             gameWindow.Show();
+            this.Close();
         }
     }
 }
